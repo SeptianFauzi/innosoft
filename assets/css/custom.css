@@ -1,0 +1,54 @@
+.border-purple{
+  border-color: #51509f;
+}
+.border-blue{
+  border-color: #0098da;
+}
+.text-blue{
+  color : #0098da;
+}
+.bg-blue{
+  background-color: #0098da;
+}
+.bg-purple {
+  background-color: #51509f;
+}
+.btn-purple{
+  background-color: #51509f;
+  border-color: #51509f;
+  color: #fff
+}
+h4.h4-30{
+line-height: 50px;
+}
+.btn-blue{
+  background-color: #0098da;
+  border-color: #0098da;
+  color: #fff
+}
+.btn-red{
+  background-color: #fc3a52;
+  border-color: #fc3a52;
+  color: #fff
+}
+.btn-orange{
+  background-color: #f9b248;
+  border-color: #f9b248;
+  color: #fff
+}
+.btn-aqua{
+  background-color: #00dbe7;
+  border-color: #00dbe7;
+  color: #fff
+}
+.text-white{
+  color: #fff;
+}
+.text-grey{
+  color: #8787a3;
+}
+.btn-green{
+  background-color: #02c39a;
+  border-color: #02c39a;
+  color: #fff
+}
